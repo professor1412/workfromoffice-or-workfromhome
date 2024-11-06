@@ -1,5 +1,5 @@
-# workfromoffice-or-workfromhome
-# Work from Home Decision Prediction System
+
+# Work from Home Or Work from Office Decision Prediction System
 
 ## Description
 This project aims to predict an individual's preference for working from home based on various input parameters. The model takes the following input parameters:
